@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<root>
+  <exchangerate>
+    <exchangerate ccy="EUR" ccy_name_ru="Евро " ccy_name_ua="Євро " ccy_name_en="Euro " base_ccy="UA" buy="10444453" unit="100" date="2013.06.06"/>
+    <exchangerate ccy="RUR" ccy_name_ru="Российский рубль " ccy_name_ua="Росiйський рубль " ccy_name_en="Russian Rouble " base_ccy="UA" buy="24992" unit="10" date="2013.06.06"/>
+    <exchangerate ccy="USD" ccy_name_ru="Доллар США " ccy_name_ua="Долар США " ccy_name_en="US Dollar " base_ccy="UA" buy="7993000" unit="100" date="2013.06.06"/>
+  </exchangerate>
+</root>

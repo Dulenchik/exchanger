@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="yes"?>
+<root>
+  <exchangerate>
+    <exchangerate ccy="EUR" ccy_name_ru="Евро " ccy_name_ua="Євро " ccy_name_en="Euro " base_ccy="RU" buy="421464" unit="1" date="2013.06.07"/>
+    <exchangerate ccy="USD" ccy_name_ru="Доллар США " ccy_name_ua="Долар США " ccy_name_en="US Dollar " base_ccy="RU" buy="321385" unit="1" date="2013.06.07"/>
+  </exchangerate>
+</root>

@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+<root>
+  <exchangerate>
+    <exchangerate ccy="AMD" ccy_name_ru="Армянский драм " ccy_name_ua="Вiрменський драм " ccy_name_en="Armenian Dram " base_ccy="RU" buy="769714" unit="1000" date="2013.06.06"/>
+    <exchangerate ccy="AUD" ccy_name_ru="Австралийский доллар " ccy_name_ua="Австралiйський долар " ccy_name_en="Australian Dollar " base_ccy="RU" buy="306160" unit="1" date="2013.06.06"/>
+    <exchangerate ccy="BYR" ccy_name_ru="Беларусский рубль " ccy_name_ua="Бiлоруський рубль " ccy_name_en="Belarussian Rouble " base_ccy="RU" buy="366972" unit="10000" date="2013.06.06"/>
+    <exchangerate ccy="CAD" ccy_name_ru="Канадский доллар " ccy_name_ua="Канадський долар " ccy_name_en="Canadian Dollar " base_ccy="RU" buy="309210" unit="1" date="2013.06.06"/>
+    <exchangerate ccy="CHF" ccy_name_ru="Швейцарский франк " ccy_name_ua="Швейцарський франк " ccy_name_en="Swiss Franc " base_ccy="RU" buy="337323" unit="1" date="2013.06.06"/>
+    <exchangerate ccy="CNY" ccy_name_ru="Юань Ренминби " ccy_name_ua="Юань Ренмiнбi " ccy_name_en="Yuan Renminbi " base_ccy="RU" buy="521842" unit="10" date="2013.06.06"/>
+    <exchangerate ccy="CZK" ccy_name_ru="Чешская крона " ccy_name_ua="Чеська крона " ccy_name_en="Czech Koruna " base_ccy="RU" buy="162035" unit="10" date="2013.06.06"/>
+    <exchangerate ccy="DKK" ccy_name_ru="Датская крона " ccy_name_ua="Датська крона " ccy_name_en="Danish Krone " base_ccy="RU" buy="561120" unit="10" date="2013.06.06"/>
+    <exchangerate ccy="EUR" ccy_name_ru="Евро " ccy_name_ua="Євро " ccy_name_en="Euro " base_ccy="RU" buy="418447" unit="1" date="2013.06.06"/>
+    <exchangerate ccy="GBP" ccy_name_ru="Английский фунт стерлингов " ccy_name_ua="Англiйський фунт стерлiнгiв " ccy_name_en="Pound Sterling " base_ccy="RU" buy="489830" unit="1" date="2013.06.06"/>
+    <exchangerate ccy="HUF" ccy_name_ru="Угорский форинт " ccy_name_ua="Угорський форiнт " ccy_name_en="Forint " base_ccy="RU" buy="142390" unit="100" date="2013.06.06"/>
+    <exchangerate ccy="INR" ccy_name_ru="Индийськая рупия " ccy_name_ua="Iндiйська рупiя " ccy_name_en="Indian Rupee " base_ccy="RU" buy="566623" unit="100" date="2013.06.06"/>
+    <exchangerate ccy="JPY" ccy_name_ru="Японская йена " ccy_name_ua="Японська iна " ccy_name_en="Yen " base_ccy="RU" buy="320553" unit="100" date="2013.06.06"/>
+    <exchangerate ccy="KGS" ccy_name_ru="Киргизский сом " ccy_name_ua="Киргизький сом " ccy_name_en="Kyrgyzstan Kom " base_ccy="RU" buy="661245" unit="100" date="2013.06.06"/>
+    <exchangerate ccy="KRW" ccy_name_ru="Вон Республики Корея " ccy_name_ua="Вон Республiки Корея " ccy_name_en="Won " base_ccy="RU" buy="286561" unit="1000" date="2013.06.06"/>
+    <exchangerate ccy="KZT" ccy_name_ru="Казахстанский теньге " ccy_name_ua="Казахський теньге " ccy_name_en="Kazakhstan Tenge " base_ccy="RU" buy="211309" unit="100" date="2013.06.06"/>
+    <exchangerate ccy="LTL" ccy_name_ru="Литовский лит " ccy_name_ua="Литовський лiт " ccy_name_en="Lithuanian Lit " base_ccy="RU" buy="121161" unit="1" date="2013.06.06"/>
+    <exchangerate ccy="LVL" ccy_name_ru="Латвийский лат " ccy_name_ua="Латвiйський лат " ccy_name_en="Latvian Lat " base_ccy="RU" buy="595893" unit="1" date="2013.06.06"/>
+    <exchangerate ccy="MDL" ccy_name_ru="Молдовский лей " ccy_name_ua="Молдовський лей " ccy_name_en="Moldovian Leu " base_ccy="RU" buy="256468" unit="10" date="2013.06.06"/>
+    <exchangerate ccy="NOK" ccy_name_ru="Норвежская крона " ccy_name_ua="Норвезька крона " ccy_name_en="Norwegian Krone " base_ccy="RU" buy="549777" unit="10" date="2013.06.06"/>
+    <exchangerate ccy="PLZ" ccy_name_ru="Польский злотый " ccy_name_ua="Польський злотий " ccy_name_en="Polish Zloty " base_ccy="RU" buy="986904" unit="10" date="2013.06.06"/>
+    <exchangerate ccy="SEK" ccy_name_ru="Шведская крона " ccy_name_ua="Шведська крона " ccy_name_en="Swedish Krona " base_ccy="RU" buy="485814" unit="10" date="2013.06.06"/>
+    <exchangerate ccy="SGD" ccy_name_ru="Сингапурский доллар " ccy_name_ua="Сiнгапурський долар " ccy_name_en="Singapore Dollar " base_ccy="RU" buy="255914" unit="1" date="2013.06.06"/>
+    <exchangerate ccy="UAH" ccy_name_ru="Украинская гривня " ccy_name_ua="Українська гривня " ccy_name_en="Hryvnia " base_ccy="RU" buy="392148" unit="10" date="2013.06.06"/>
+    <exchangerate ccy="USD" ccy_name_ru="Доллар США " ccy_name_ua="Долар США " ccy_name_en="US Dollar " base_ccy="RU" buy="319816" unit="1" date="2013.06.06"/>
+    <exchangerate ccy="UZS" ccy_name_ru="Узбекский сум " ccy_name_ua="Узбецький сум " ccy_name_en="Uzbekistan Sum " base_ccy="RU" buy="154800" unit="1000" date="2013.06.06"/>
+    <exchangerate ccy="XAG" ccy_name_ru="Серебро " ccy_name_ua="Срiбло " ccy_name_en="Silver " base_ccy="RU" buy="231500" unit="1" date="2013.06.06"/>
+    <exchangerate ccy="XAU" ccy_name_ru="Золото " ccy_name_ua="Золото " ccy_name_en="GOLD " base_ccy="RU" buy="14359300" unit="1" date="2013.06.06"/>
+    <exchangerate ccy="XDR" ccy_name_ru="Специальные права заимствования " ccy_name_ua="Спецiальнi права запозичення " ccy_name_en="Special Drawing Rights " base_ccy="RU" buy="481093" unit="1" date="2013.06.06"/>
+    <exchangerate ccy="XPD" ccy_name_ru="Палладий " ccy_name_ua="Палладiй " ccy_name_en="Paladium " base_ccy="RU" buy="7763100" unit="1" date="2013.06.06"/>
+    <exchangerate ccy="XPT" ccy_name_ru="Платина " ccy_name_ua="Платина " ccy_name_en="Platinum " base_ccy="RU" buy="15392600" unit="1" date="2013.06.06"/>
+    <exchangerate ccy="ZAR" ccy_name_ru="Южно-Африканской респ. ренд " ccy_name_ua="Пiвд.-Африк. респ. ренд " ccy_name_en="Rand " base_ccy="RU" buy="324110" unit="10" date="2013.06.06"/>
+  </exchangerate>
+</root>
